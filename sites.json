@@ -1,7 +1,7 @@
 {
   "sites": [
-    "*://*.androeed.ru/files/twodots.html",
-    "*://*.androeed.ru/files/auto-chess.html",
-    "*://*.modyolo.com/shop-titans.html"
+    "androeed.ru/files/twodots.html",
+    "androeed.ru/files/auto-chess.html",
+    "modyolo.com/shop-titans.html"
   ]
 }
